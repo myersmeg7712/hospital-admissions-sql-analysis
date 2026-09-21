@@ -65,6 +65,7 @@ Important limitations include:
  ## Project Files
 
 - `hospital_admissions_analysis.sql` - Complete SQL analysis containing all queries used in this project.
+- `hospital_admissions_data.csv` - Fictional hospital admissions dataset used for the analysis.
 
 
  ## About This Project
