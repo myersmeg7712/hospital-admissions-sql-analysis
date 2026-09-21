@@ -1,0 +1,301 @@
+admission_id,patient_id,age,unit,admission_type,diagnosis_group,admission_date,discharge_date,length_of_stay_days,discharge_disposition,readmission_30d,payer
+ADM0019,PT1220,54,Telemetry,Elective,Cardiac,2026-02-07,2026-02-08,1,Home,false,Commercial
+ADM0032,PT1119,34,Medical,Elective,Cardiac,2026-03-23,2026-03-24,1,Home Health,false,Self-Pay
+ADM0057,PT1205,71,Medical,Elective,Cardiac,2026-04-14,2026-04-15,1,Home,false,Medicare
+ADM0079,PT1068,81,Medical,Emergency,Cardiac,2026-02-27,2026-02-28,1,Skilled Nursing Facility,false,Commercial
+ADM0044,PT1203,58,Telemetry,Emergency,Cardiac,2026-01-14,2026-01-16,2,Home,false,Commercial
+ADM0069,PT1064,77,Telemetry,Emergency,Cardiac,2026-03-04,2026-03-06,2,Home,true,Medicaid
+ADM0111,PT1023,63,Telemetry,Elective,Cardiac,2026-03-21,2026-03-23,2,Rehab,true,Commercial
+ADM0193,PT1017,44,Surgical,Emergency,Cardiac,2026-04-23,2026-04-25,2,Home,false,Commercial
+ADM0207,PT1021,53,Telemetry,Transfer,Cardiac,2026-01-24,2026-01-26,2,Home,true,Commercial
+ADM0245,PT1023,49,Telemetry,Emergency,Cardiac,2026-03-15,2026-03-17,2,Home,false,Medicaid
+ADM0283,PT1183,63,ICU,Elective,Cardiac,2026-05-10,2026-05-12,2,Home,false,Commercial
+ADM0041,PT1229,67,ICU,Transfer,Cardiac,2026-04-05,2026-04-08,3,Home,false,Medicare
+ADM0047,PT1231,20,Telemetry,Elective,Cardiac,2026-06-15,2026-06-18,3,Skilled Nursing Facility,true,Self-Pay
+ADM0103,PT1189,53,Telemetry,Emergency,Cardiac,2026-03-31,2026-04-03,3,Home Health,false,Medicare
+ADM0112,PT1166,73,Medical,Emergency,Cardiac,2026-05-27,2026-05-30,3,Home,false,Commercial
+ADM0130,PT1225,54,Telemetry,Elective,Cardiac,2026-05-27,2026-05-30,3,Home,false,Medicaid
+ADM0165,PT1067,59,Telemetry,Elective,Cardiac,2026-04-19,2026-04-22,3,Home,false,Medicaid
+ADM0181,PT1249,70,ICU,Elective,Cardiac,2026-04-05,2026-04-08,3,Home,false,Medicare
+ADM0260,PT1211,33,Telemetry,Elective,Cardiac,2026-03-17,2026-03-20,3,Home,false,Medicaid
+ADM0269,PT1013,64,Surgical,Emergency,Cardiac,2026-06-28,2026-07-01,3,Home,false,Medicaid
+ADM0009,PT1129,56,Telemetry,Emergency,Cardiac,2026-03-29,2026-04-02,4,Rehab,false,Medicare
+ADM0090,PT1106,35,Telemetry,Emergency,Cardiac,2026-02-10,2026-02-14,4,Home,false,Commercial
+ADM0120,PT1089,77,Ortho,Emergency,Cardiac,2026-05-16,2026-05-20,4,Home Health,false,Commercial
+ADM0178,PT1052,59,Surgical,Transfer,Cardiac,2026-06-01,2026-06-05,4,Home,false,Commercial
+ADM0232,PT1046,61,Telemetry,Elective,Cardiac,2026-03-01,2026-03-05,4,Home,false,Commercial
+ADM0031,PT1151,66,Telemetry,Emergency,Cardiac,2026-01-31,2026-02-05,5,Home,false,Commercial
+ADM0063,PT1088,71,Telemetry,Emergency,Cardiac,2026-03-06,2026-03-11,5,Home,true,Medicare
+ADM0097,PT1219,64,Medical,Elective,Cardiac,2026-01-16,2026-01-21,5,Home,true,Medicare
+ADM0104,PT1243,51,Surgical,Emergency,Cardiac,2026-02-18,2026-02-23,5,Home,true,Commercial
+ADM0224,PT1096,49,Surgical,Emergency,Cardiac,2026-05-21,2026-05-26,5,Rehab,false,Self-Pay
+ADM0136,PT1215,73,Telemetry,Emergency,Cardiac,2026-01-03,2026-01-09,6,Rehab,false,Medicare
+ADM0256,PT1162,72,Telemetry,Elective,Cardiac,2026-03-15,2026-03-21,6,Home,false,Medicaid
+ADM0290,PT1099,62,Medical,Emergency,Cardiac,2026-03-21,2026-03-27,6,Home,false,Medicare
+ADM0014,PT1183,38,Telemetry,Emergency,Cardiac,2026-01-18,2026-01-25,7,Rehab,true,Medicare
+ADM0100,PT1163,57,Medical,Emergency,Cardiac,2026-02-15,2026-02-22,7,Home,false,Commercial
+ADM0140,PT1005,74,Surgical,Elective,Cardiac,2026-02-14,2026-02-21,7,Skilled Nursing Facility,false,Commercial
+ADM0154,PT1223,42,Telemetry,Emergency,Cardiac,2026-03-19,2026-03-26,7,Home,false,Medicaid
+ADM0157,PT1045,80,ICU,Transfer,Cardiac,2026-06-29,2026-07-06,7,Skilled Nursing Facility,true,Commercial
+ADM0212,PT1098,75,ICU,Elective,Cardiac,2026-01-17,2026-01-24,7,Home Health,false,Medicare
+ADM0215,PT1112,79,Telemetry,Emergency,Cardiac,2026-03-07,2026-03-15,8,Rehab,false,Medicaid
+ADM0257,PT1171,81,Surgical,Elective,Cardiac,2026-05-24,2026-06-01,8,Rehab,false,Commercial
+ADM0277,PT1005,64,Medical,Emergency,Cardiac,2026-05-19,2026-05-27,8,Skilled Nursing Facility,true,Commercial
+ADM0022,PT1241,85,Telemetry,Elective,Cardiac,2026-05-03,2026-05-12,9,Home,false,Medicare
+ADM0161,PT1000,85,Surgical,Emergency,Cardiac,2026-06-02,2026-06-11,9,Home,false,Medicare
+ADM0055,PT1076,45,Surgical,Emergency,Cardiac,2026-01-14,2026-01-26,12,Skilled Nursing Facility,true,Medicaid
+ADM0081,PT1074,66,ICU,Emergency,Cardiac,2026-01-11,2026-01-23,12,Home,true,Self-Pay
+ADM0106,PT1157,52,ICU,Emergency,Cardiac,2026-06-13,2026-06-26,13,Home Health,false,Medicare
+ADM0298,PT1240,74,Surgical,Emergency,Cardiac,2026-04-13,2026-04-26,13,Home,false,Medicaid
+ADM0001,PT1145,79,ICU,Emergency,Cardiac,2026-05-11,2026-05-27,16,Rehab,false,Medicare
+ADM0091,PT1074,66,Medical,Emergency,Cardiac,2026-06-28,2026-07-15,17,Skilled Nursing Facility,true,Commercial
+ADM0056,PT1189,86,Surgical,Emergency,GI,2026-03-18,2026-03-19,1,Skilled Nursing Facility,false,Self-Pay
+ADM0067,PT1026,83,Surgical,Emergency,GI,2026-05-08,2026-05-09,1,Skilled Nursing Facility,true,Commercial
+ADM0163,PT1094,50,Surgical,Transfer,GI,2026-03-03,2026-03-04,1,Home,false,Commercial
+ADM0164,PT1183,82,Surgical,Elective,GI,2026-04-26,2026-04-27,1,Rehab,false,Commercial
+ADM0244,PT1132,68,Surgical,Elective,GI,2026-06-30,2026-07-01,1,Home Health,false,Commercial
+ADM0264,PT1084,61,Surgical,Transfer,GI,2026-02-04,2026-02-05,1,Home,false,Medicare
+ADM0297,PT1078,82,Medical,Elective,GI,2026-03-27,2026-03-28,1,Home,false,Commercial
+ADM0075,PT1115,72,Surgical,Emergency,GI,2026-01-27,2026-01-29,2,Home,false,Medicaid
+ADM0117,PT1059,58,Surgical,Emergency,GI,2026-03-10,2026-03-12,2,Home,false,Commercial
+ADM0177,PT1204,73,Medical,Elective,GI,2026-01-03,2026-01-05,2,Home,false,Self-Pay
+ADM0282,PT1053,67,Telemetry,Emergency,GI,2026-04-06,2026-04-08,2,Home,false,Commercial
+ADM0020,PT1178,70,Medical,Transfer,GI,2026-06-13,2026-06-16,3,Home,false,Commercial
+ADM0151,PT1124,47,Telemetry,Emergency,GI,2026-04-17,2026-04-20,3,Home,false,Medicare
+ADM0173,PT1224,55,Telemetry,Emergency,GI,2026-03-13,2026-03-16,3,Skilled Nursing Facility,false,Medicaid
+ADM0191,PT1183,32,Medical,Transfer,GI,2026-04-14,2026-04-17,3,Home,false,Commercial
+ADM0195,PT1219,94,Surgical,Elective,GI,2026-03-06,2026-03-09,3,Rehab,false,Self-Pay
+ADM0198,PT1228,65,Surgical,Elective,GI,2026-03-16,2026-03-19,3,Home Health,true,Medicaid
+ADM0203,PT1197,57,Medical,Emergency,GI,2026-06-13,2026-06-16,3,Home,false,Commercial
+ADM0267,PT1017,32,Telemetry,Elective,GI,2026-06-05,2026-06-08,3,Home,false,Medicaid
+ADM0271,PT1090,78,ICU,Elective,GI,2026-01-27,2026-01-30,3,Rehab,false,Commercial
+ADM0284,PT1205,35,Medical,Emergency,GI,2026-01-04,2026-01-07,3,Rehab,false,Medicaid
+ADM0286,PT1212,65,Medical,Elective,GI,2026-02-12,2026-02-15,3,Home,false,Commercial
+ADM0107,PT1127,81,Surgical,Emergency,GI,2026-03-09,2026-03-13,4,Home,false,Medicare
+ADM0116,PT1030,42,Surgical,Transfer,GI,2026-05-10,2026-05-14,4,Home,false,Medicare
+ADM0135,PT1129,54,Surgical,Emergency,GI,2026-04-07,2026-04-11,4,Home,true,Commercial
+ADM0167,PT1196,71,Telemetry,Emergency,GI,2026-05-23,2026-05-27,4,Rehab,false,Medicare
+ADM0196,PT1024,77,Surgical,Emergency,GI,2026-05-10,2026-05-14,4,Skilled Nursing Facility,false,Commercial
+ADM0229,PT1194,56,Surgical,Emergency,GI,2026-02-27,2026-03-03,4,Home Health,false,Commercial
+ADM0238,PT1023,69,Surgical,Emergency,GI,2026-05-04,2026-05-08,4,Home,false,Medicare
+ADM0254,PT1096,41,Surgical,Elective,GI,2026-03-20,2026-03-24,4,Home,false,Medicare
+ADM0280,PT1118,69,ICU,Emergency,GI,2026-05-27,2026-05-31,4,Home Health,false,Medicare
+ADM0293,PT1034,70,Surgical,Emergency,GI,2026-02-07,2026-02-11,4,Home,false,Commercial
+ADM0115,PT1016,41,Surgical,Emergency,GI,2026-01-16,2026-01-21,5,Home,false,Self-Pay
+ADM0124,PT1023,85,Surgical,Emergency,GI,2026-04-30,2026-05-05,5,Home,false,Self-Pay
+ADM0189,PT1088,34,Ortho,Elective,GI,2026-06-23,2026-06-28,5,Skilled Nursing Facility,false,Commercial
+ADM0249,PT1206,53,Medical,Transfer,GI,2026-04-16,2026-04-21,5,Rehab,false,Commercial
+ADM0276,PT1164,56,Medical,Transfer,GI,2026-02-19,2026-02-24,5,Home,false,Medicare
+ADM0105,PT1126,69,Surgical,Elective,GI,2026-03-13,2026-03-19,6,Home,false,Medicaid
+ADM0108,PT1191,88,Telemetry,Emergency,GI,2026-04-18,2026-04-24,6,Home,false,Medicare
+ADM0246,PT1157,18,Surgical,Emergency,GI,2026-02-09,2026-02-15,6,Home,true,Medicare
+ADM0261,PT1183,48,Surgical,Emergency,GI,2026-06-30,2026-07-06,6,Home,true,Commercial
+ADM0004,PT1124,54,Telemetry,Emergency,GI,2026-05-15,2026-05-22,7,Home,false,Medicaid
+ADM0197,PT1233,44,Surgical,Emergency,GI,2026-03-21,2026-03-28,7,Home,false,Medicare
+ADM0204,PT1012,51,Surgical,Emergency,GI,2026-03-31,2026-04-07,7,Home,false,Commercial
+ADM0255,PT1247,54,Medical,Emergency,GI,2026-04-24,2026-05-01,7,Home,false,Medicare
+ADM0025,PT1177,61,Surgical,Emergency,GI,2026-03-19,2026-03-27,8,Home,false,Medicare
+ADM0122,PT1134,26,Telemetry,Emergency,GI,2026-06-01,2026-06-09,8,Home Health,false,Medicaid
+ADM0155,PT1102,82,Surgical,Elective,GI,2026-06-05,2026-06-13,8,Skilled Nursing Facility,false,Commercial
+ADM0211,PT1189,44,ICU,Elective,GI,2026-04-07,2026-04-15,8,Skilled Nursing Facility,false,Medicaid
+ADM0275,PT1211,77,Telemetry,Emergency,GI,2026-06-05,2026-06-13,8,Home,false,Medicare
+ADM0300,PT1090,71,Telemetry,Emergency,GI,2026-02-18,2026-02-28,10,Rehab,false,Medicare
+ADM0141,PT1021,62,Surgical,Emergency,GI,2026-01-10,2026-01-21,11,Home Health,false,Commercial
+ADM0291,PT1079,41,Surgical,Emergency,GI,2026-05-17,2026-05-29,12,Skilled Nursing Facility,false,Commercial
+ADM0054,PT1104,80,Surgical,Emergency,GI,2026-01-21,2026-02-05,15,Skilled Nursing Facility,false,Commercial
+ADM0133,PT1154,64,Surgical,Emergency,GI,2026-01-18,2026-02-06,19,Home,true,Commercial
+ADM0006,PT1219,18,ICU,Elective,Infection,2026-02-04,2026-02-05,1,Skilled Nursing Facility,true,Commercial
+ADM0048,PT1176,65,Medical,Elective,Infection,2026-04-22,2026-04-23,1,Rehab,false,Medicaid
+ADM0095,PT1096,59,Telemetry,Emergency,Infection,2026-06-01,2026-06-02,1,Home,false,Self-Pay
+ADM0218,PT1218,59,Medical,Emergency,Infection,2026-06-03,2026-06-04,1,Skilled Nursing Facility,false,Medicaid
+ADM0243,PT1246,33,Telemetry,Emergency,Infection,2026-01-04,2026-01-05,1,Home,true,Commercial
+ADM0250,PT1086,69,Telemetry,Emergency,Infection,2026-01-16,2026-01-17,1,Home,false,Commercial
+ADM0168,PT1066,77,Surgical,Emergency,Infection,2026-03-01,2026-03-03,2,Skilled Nursing Facility,true,Commercial
+ADM0185,PT1020,65,Medical,Emergency,Infection,2026-01-14,2026-01-16,2,Skilled Nursing Facility,true,Medicare
+ADM0080,PT1225,55,Telemetry,Elective,Infection,2026-06-27,2026-06-30,3,Home,false,Commercial
+ADM0088,PT1108,67,Ortho,Emergency,Infection,2026-03-29,2026-04-01,3,Home,true,Commercial
+ADM0119,PT1146,82,Ortho,Transfer,Infection,2026-03-18,2026-03-21,3,Skilled Nursing Facility,false,Medicare
+ADM0200,PT1015,90,Surgical,Elective,Infection,2026-04-18,2026-04-21,3,Home,false,Medicare
+ADM0241,PT1116,50,Telemetry,Elective,Infection,2026-03-13,2026-03-16,3,Home,false,Medicare
+ADM0007,PT1127,71,Medical,Elective,Infection,2026-06-20,2026-06-24,4,Skilled Nursing Facility,true,Medicare
+ADM0074,PT1210,59,Medical,Emergency,Infection,2026-05-02,2026-05-06,4,Home,true,Medicare
+ADM0145,PT1226,54,Surgical,Elective,Infection,2026-04-22,2026-04-26,4,Home,true,Commercial
+ADM0170,PT1128,53,Medical,Emergency,Infection,2026-02-05,2026-02-09,4,Home,false,Medicare
+ADM0194,PT1147,85,Surgical,Transfer,Infection,2026-01-23,2026-01-27,4,Skilled Nursing Facility,false,Medicare
+ADM0208,PT1001,27,Ortho,Emergency,Infection,2026-04-19,2026-04-23,4,Skilled Nursing Facility,false,Commercial
+ADM0247,PT1172,29,Medical,Emergency,Infection,2026-06-07,2026-06-11,4,Home,false,Commercial
+ADM0102,PT1182,40,ICU,Emergency,Infection,2026-04-04,2026-04-09,5,Rehab,true,Commercial
+ADM0131,PT1121,36,Medical,Transfer,Infection,2026-01-23,2026-01-28,5,Skilled Nursing Facility,false,Medicaid
+ADM0219,PT1143,89,Medical,Emergency,Infection,2026-05-04,2026-05-09,5,Home Health,false,Medicare
+ADM0144,PT1174,71,ICU,Transfer,Infection,2026-02-01,2026-02-07,6,Home,false,Medicare
+ADM0176,PT1087,64,Medical,Emergency,Infection,2026-03-19,2026-03-25,6,Home,false,Self-Pay
+ADM0180,PT1038,37,Telemetry,Emergency,Infection,2026-04-13,2026-04-19,6,Home Health,false,Commercial
+ADM0188,PT1024,47,Medical,Emergency,Infection,2026-02-06,2026-02-12,6,Rehab,false,Medicaid
+ADM0209,PT1175,67,Medical,Emergency,Infection,2026-05-17,2026-05-23,6,Home,false,Commercial
+ADM0240,PT1181,71,Surgical,Emergency,Infection,2026-03-17,2026-03-23,6,Home,true,Medicare
+ADM0253,PT1154,56,Telemetry,Elective,Infection,2026-05-08,2026-05-14,6,Home Health,false,Medicaid
+ADM0077,PT1149,57,Medical,Emergency,Infection,2026-02-16,2026-02-23,7,Home Health,false,Medicaid
+ADM0089,PT1060,46,Medical,Elective,Infection,2026-02-16,2026-02-23,7,Home,false,Commercial
+ADM0092,PT1167,65,Surgical,Emergency,Infection,2026-04-09,2026-04-16,7,Home Health,false,Medicaid
+ADM0101,PT1039,41,ICU,Elective,Infection,2026-03-25,2026-04-01,7,Home,false,Medicare
+ADM0274,PT1167,38,Ortho,Emergency,Infection,2026-05-26,2026-06-02,7,Home,false,Medicare
+ADM0039,PT1112,78,Ortho,Emergency,Infection,2026-05-12,2026-05-20,8,Rehab,false,Commercial
+ADM0236,PT1006,43,ICU,Emergency,Infection,2026-02-19,2026-02-27,8,Skilled Nursing Facility,true,Commercial
+ADM0096,PT1017,61,Surgical,Emergency,Infection,2026-01-30,2026-02-08,9,Home,false,Commercial
+ADM0201,PT1029,76,Medical,Emergency,Infection,2026-05-01,2026-05-10,9,Rehab,false,Commercial
+ADM0012,PT1166,45,ICU,Elective,Infection,2026-03-20,2026-03-30,10,Skilled Nursing Facility,true,Commercial
+ADM0125,PT1214,40,ICU,Elective,Infection,2026-04-15,2026-04-25,10,Skilled Nursing Facility,false,Commercial
+ADM0127,PT1144,27,ICU,Emergency,Infection,2026-02-22,2026-03-04,10,Home Health,false,Medicaid
+ADM0160,PT1157,64,Medical,Emergency,Infection,2026-01-24,2026-02-03,10,Skilled Nursing Facility,false,Medicaid
+ADM0099,PT1215,94,Medical,Emergency,Infection,2026-06-24,2026-07-05,11,Home Health,false,Medicaid
+ADM0230,PT1044,88,ICU,Emergency,Infection,2026-06-22,2026-07-03,11,Rehab,false,Medicare
+ADM0251,PT1004,77,ICU,Emergency,Infection,2026-01-02,2026-01-13,11,Skilled Nursing Facility,false,Medicare
+ADM0278,PT1093,69,Medical,Elective,Infection,2026-05-17,2026-05-28,11,Home,false,Commercial
+ADM0281,PT1235,56,Medical,Emergency,Infection,2026-01-26,2026-02-06,11,Home,false,Medicaid
+ADM0149,PT1126,85,ICU,Emergency,Infection,2026-03-03,2026-03-15,12,Home,false,Commercial
+ADM0187,PT1103,88,Medical,Emergency,Infection,2026-06-18,2026-07-01,13,Home Health,false,Commercial
+ADM0299,PT1224,76,Medical,Emergency,Infection,2026-01-13,2026-01-27,14,Skilled Nursing Facility,false,Commercial
+ADM0223,PT1066,49,ICU,Emergency,Infection,2026-02-28,2026-03-16,16,Home Health,false,Commercial
+ADM0220,PT1239,50,ICU,Emergency,Infection,2026-04-12,2026-05-06,24,Home,false,Commercial
+ADM0024,PT1105,65,Medical,Elective,Neurologic,2026-04-09,2026-04-10,1,Rehab,true,Commercial
+ADM0110,PT1087,92,Medical,Elective,Neurologic,2026-03-17,2026-03-18,1,Home,false,Commercial
+ADM0233,PT1005,69,Telemetry,Transfer,Neurologic,2026-05-17,2026-05-18,1,Home,false,Medicaid
+ADM0242,PT1144,60,Telemetry,Transfer,Neurologic,2026-03-22,2026-03-23,1,Home,false,Commercial
+ADM0065,PT1159,63,Telemetry,Emergency,Neurologic,2026-01-28,2026-01-30,2,Home Health,false,Commercial
+ADM0068,PT1014,50,Ortho,Emergency,Neurologic,2026-03-01,2026-03-03,2,Home,false,Medicaid
+ADM0234,PT1178,52,Ortho,Elective,Neurologic,2026-05-30,2026-06-01,2,Home,false,Medicare
+ADM0003,PT1135,78,Ortho,Elective,Neurologic,2026-05-13,2026-05-16,3,Skilled Nursing Facility,false,Medicare
+ADM0050,PT1069,50,ICU,Elective,Neurologic,2026-01-02,2026-01-05,3,Home,false,Medicare
+ADM0051,PT1218,62,Ortho,Elective,Neurologic,2026-03-23,2026-03-26,3,Home,false,Commercial
+ADM0171,PT1011,78,Telemetry,Elective,Neurologic,2026-04-24,2026-04-27,3,Skilled Nursing Facility,false,Commercial
+ADM0183,PT1086,62,Medical,Elective,Neurologic,2026-04-21,2026-04-24,3,Home,false,Commercial
+ADM0285,PT1094,73,ICU,Emergency,Neurologic,2026-06-29,2026-07-02,3,Home,false,Medicare
+ADM0294,PT1216,57,Medical,Transfer,Neurologic,2026-04-04,2026-04-07,3,Home,true,Medicaid
+ADM0123,PT1038,45,Surgical,Emergency,Neurologic,2026-03-11,2026-03-15,4,Home,false,Medicaid
+ADM0192,PT1225,66,Medical,Emergency,Neurologic,2026-04-06,2026-04-11,5,Home,true,Medicare
+ADM0239,PT1049,48,Medical,Emergency,Neurologic,2026-01-20,2026-01-25,5,Home,false,Commercial
+ADM0021,PT1036,78,Telemetry,Emergency,Neurologic,2026-01-08,2026-01-14,6,Skilled Nursing Facility,false,Medicaid
+ADM0035,PT1059,51,ICU,Elective,Neurologic,2026-01-09,2026-01-15,6,Rehab,false,Medicaid
+ADM0226,PT1051,69,Surgical,Emergency,Neurologic,2026-05-08,2026-05-14,6,Skilled Nursing Facility,false,Medicare
+ADM0072,PT1060,84,Medical,Emergency,Neurologic,2026-04-30,2026-05-07,7,Skilled Nursing Facility,false,Medicare
+ADM0146,PT1203,70,ICU,Elective,Neurologic,2026-01-28,2026-02-04,7,Home,false,Medicare
+ADM0150,PT1028,71,ICU,Elective,Neurologic,2026-06-21,2026-06-28,7,Home,false,Commercial
+ADM0118,PT1211,94,ICU,Emergency,Neurologic,2026-05-19,2026-05-27,8,Home,false,Commercial
+ADM0158,PT1111,59,ICU,Transfer,Neurologic,2026-04-27,2026-05-05,8,Rehab,true,Medicare
+ADM0272,PT1147,57,Telemetry,Emergency,Neurologic,2026-01-21,2026-01-29,8,Home,true,Commercial
+ADM0073,PT1015,36,Telemetry,Emergency,Neurologic,2026-01-20,2026-01-29,9,Home,false,Commercial
+ADM0027,PT1102,73,Telemetry,Emergency,Neurologic,2026-02-22,2026-03-04,10,Home,true,Medicare
+ADM0026,PT1045,56,Surgical,Emergency,Orthopedic,2026-04-10,2026-04-11,1,Home,true,Commercial
+ADM0064,PT1154,60,Ortho,Emergency,Orthopedic,2026-06-21,2026-06-22,1,Home,false,Medicare
+ADM0206,PT1139,78,Ortho,Emergency,Orthopedic,2026-05-31,2026-06-01,1,Skilled Nursing Facility,false,Self-Pay
+ADM0214,PT1199,42,Ortho,Transfer,Orthopedic,2026-06-05,2026-06-06,1,Home,false,Commercial
+ADM0216,PT1001,87,Medical,Transfer,Orthopedic,2026-01-16,2026-01-17,1,Home,false,Medicare
+ADM0259,PT1235,43,Surgical,Transfer,Orthopedic,2026-01-22,2026-01-23,1,Home,false,Medicare
+ADM0263,PT1156,18,Ortho,Transfer,Orthopedic,2026-03-05,2026-03-06,1,Home Health,false,Commercial
+ADM0265,PT1014,67,Ortho,Emergency,Orthopedic,2026-06-14,2026-06-15,1,Rehab,false,Medicare
+ADM0011,PT1058,82,Telemetry,Elective,Orthopedic,2026-01-18,2026-01-20,2,Home Health,false,Medicare
+ADM0017,PT1065,85,Ortho,Elective,Orthopedic,2026-05-30,2026-06-01,2,Home,false,Medicare
+ADM0034,PT1041,74,Ortho,Emergency,Orthopedic,2026-01-23,2026-01-25,2,Home,false,Commercial
+ADM0040,PT1134,39,Ortho,Elective,Orthopedic,2026-01-30,2026-02-01,2,Home,false,Medicare
+ADM0042,PT1118,37,Ortho,Emergency,Orthopedic,2026-01-21,2026-01-23,2,Home,false,Medicaid
+ADM0084,PT1008,71,Ortho,Elective,Orthopedic,2026-02-27,2026-03-01,2,Home,false,Commercial
+ADM0094,PT1115,50,Ortho,Elective,Orthopedic,2026-04-21,2026-04-23,2,Home,false,Medicaid
+ADM0109,PT1169,43,Ortho,Elective,Orthopedic,2026-06-15,2026-06-17,2,Home,false,Medicare
+ADM0132,PT1211,54,Ortho,Emergency,Orthopedic,2026-01-11,2026-01-13,2,Skilled Nursing Facility,false,Commercial
+ADM0138,PT1218,35,Ortho,Elective,Orthopedic,2026-05-11,2026-05-13,2,Home,false,Self-Pay
+ADM0166,PT1173,29,Ortho,Transfer,Orthopedic,2026-06-16,2026-06-18,2,Home,false,Medicare
+ADM0174,PT1043,44,Ortho,Elective,Orthopedic,2026-04-18,2026-04-20,2,Home,false,Self-Pay
+ADM0184,PT1056,73,Telemetry,Elective,Orthopedic,2026-01-06,2026-01-08,2,Home,false,Medicare
+ADM0205,PT1000,33,Ortho,Transfer,Orthopedic,2026-04-22,2026-04-24,2,Home,false,Commercial
+ADM0227,PT1103,59,Ortho,Emergency,Orthopedic,2026-06-19,2026-06-21,2,Home,true,Commercial
+ADM0287,PT1237,53,Surgical,Emergency,Orthopedic,2026-05-27,2026-05-29,2,Home,false,Medicare
+ADM0008,PT1056,67,Ortho,Emergency,Orthopedic,2026-01-21,2026-01-24,3,Home,false,Medicare
+ADM0036,PT1154,26,Ortho,Elective,Orthopedic,2026-02-11,2026-02-14,3,Home,false,Medicaid
+ADM0038,PT1151,72,Surgical,Elective,Orthopedic,2026-06-20,2026-06-23,3,Home,false,Commercial
+ADM0049,PT1044,68,Medical,Emergency,Orthopedic,2026-06-06,2026-06-09,3,Skilled Nursing Facility,false,Medicare
+ADM0053,PT1228,94,Ortho,Emergency,Orthopedic,2026-05-03,2026-05-06,3,Skilled Nursing Facility,false,Medicaid
+ADM0137,PT1064,66,Ortho,Elective,Orthopedic,2026-06-07,2026-06-10,3,Home,false,Commercial
+ADM0148,PT1164,45,Ortho,Elective,Orthopedic,2026-01-10,2026-01-13,3,Home,false,Self-Pay
+ADM0152,PT1081,36,Ortho,Emergency,Orthopedic,2026-03-04,2026-03-07,3,Home,false,Medicare
+ADM0213,PT1045,48,Ortho,Emergency,Orthopedic,2026-04-11,2026-04-14,3,Skilled Nursing Facility,true,Medicaid
+ADM0005,PT1027,37,Ortho,Emergency,Orthopedic,2026-03-24,2026-03-28,4,Home,false,Medicaid
+ADM0029,PT1145,83,Surgical,Emergency,Orthopedic,2026-02-16,2026-02-20,4,Skilled Nursing Facility,false,Commercial
+ADM0062,PT1240,67,Ortho,Emergency,Orthopedic,2026-05-27,2026-05-31,4,Home,false,Medicare
+ADM0076,PT1141,79,Medical,Transfer,Orthopedic,2026-02-12,2026-02-16,4,Home,false,Medicare
+ADM0087,PT1112,66,Ortho,Emergency,Orthopedic,2026-02-26,2026-03-02,4,Home,false,Medicaid
+ADM0147,PT1120,61,Ortho,Elective,Orthopedic,2026-03-01,2026-03-05,4,Home,false,Medicaid
+ADM0159,PT1220,67,Ortho,Emergency,Orthopedic,2026-05-27,2026-05-31,4,Home,false,Medicaid
+ADM0273,PT1177,58,Ortho,Elective,Orthopedic,2026-01-07,2026-01-11,4,Home,false,Medicaid
+ADM0296,PT1137,31,Surgical,Transfer,Orthopedic,2026-02-16,2026-02-20,4,Home,false,Commercial
+ADM0052,PT1120,42,Telemetry,Transfer,Orthopedic,2026-05-13,2026-05-18,5,Rehab,true,Medicare
+ADM0083,PT1112,41,Ortho,Elective,Orthopedic,2026-04-08,2026-04-13,5,Home,true,Commercial
+ADM0128,PT1152,71,Surgical,Emergency,Orthopedic,2026-05-25,2026-05-30,5,Home,false,Medicare
+ADM0129,PT1078,72,Ortho,Transfer,Orthopedic,2026-02-08,2026-02-13,5,Home,false,Medicare
+ADM0186,PT1150,85,Surgical,Emergency,Orthopedic,2026-01-01,2026-01-06,5,Home,false,Commercial
+ADM0235,PT1223,54,Ortho,Emergency,Orthopedic,2026-02-27,2026-03-04,5,Skilled Nursing Facility,true,Commercial
+ADM0289,PT1028,41,Ortho,Emergency,Orthopedic,2026-03-30,2026-04-04,5,Home,false,Commercial
+ADM0018,PT1212,81,Telemetry,Emergency,Orthopedic,2026-04-12,2026-04-18,6,Home Health,true,Medicare
+ADM0061,PT1018,61,Ortho,Emergency,Orthopedic,2026-06-19,2026-06-25,6,Home,false,Commercial
+ADM0070,PT1069,61,Surgical,Transfer,Orthopedic,2026-06-05,2026-06-11,6,Home,true,Commercial
+ADM0078,PT1100,72,Ortho,Emergency,Orthopedic,2026-05-01,2026-05-07,6,Skilled Nursing Facility,false,Self-Pay
+ADM0142,PT1131,50,Ortho,Transfer,Orthopedic,2026-05-03,2026-05-09,6,Home,false,Commercial
+ADM0143,PT1173,83,Ortho,Emergency,Orthopedic,2026-03-24,2026-03-30,6,Home,false,Medicare
+ADM0179,PT1246,77,Ortho,Transfer,Orthopedic,2026-06-28,2026-07-04,6,Rehab,false,Medicaid
+ADM0190,PT1144,41,Medical,Emergency,Orthopedic,2026-04-04,2026-04-10,6,Home Health,false,Commercial
+ADM0262,PT1221,42,Ortho,Emergency,Orthopedic,2026-01-19,2026-01-25,6,Home,true,Medicaid
+ADM0268,PT1195,33,Ortho,Elective,Orthopedic,2026-04-19,2026-04-25,6,Home,false,Medicare
+ADM0093,PT1023,56,Surgical,Transfer,Orthopedic,2026-06-22,2026-06-29,7,Home,false,Commercial
+ADM0182,PT1161,88,Ortho,Elective,Orthopedic,2026-02-24,2026-03-03,7,Skilled Nursing Facility,true,Medicare
+ADM0015,PT1129,66,Surgical,Emergency,Orthopedic,2026-04-15,2026-04-23,8,Home Health,false,Medicare
+ADM0175,PT1048,32,ICU,Emergency,Orthopedic,2026-02-14,2026-02-22,8,Skilled Nursing Facility,false,Medicare
+ADM0222,PT1070,44,Surgical,Transfer,Orthopedic,2026-06-04,2026-06-12,8,Home Health,false,Medicare
+ADM0288,PT1136,80,Surgical,Emergency,Orthopedic,2026-04-03,2026-04-11,8,Home Health,false,Commercial
+ADM0046,PT1072,71,Ortho,Emergency,Orthopedic,2026-01-29,2026-02-07,9,Home,false,Commercial
+ADM0010,PT1150,73,Ortho,Emergency,Orthopedic,2026-01-24,2026-02-03,10,Home,false,Commercial
+ADM0202,PT1240,58,Ortho,Emergency,Orthopedic,2026-01-15,2026-01-26,11,Home Health,true,Medicaid
+ADM0270,PT1199,71,Ortho,Emergency,Orthopedic,2026-03-21,2026-04-01,11,Home,false,Medicare
+ADM0279,PT1232,83,ICU,Emergency,Orthopedic,2026-05-29,2026-06-10,12,Skilled Nursing Facility,false,Commercial
+ADM0221,PT1028,57,Surgical,Emergency,Orthopedic,2026-05-16,2026-05-29,13,Rehab,false,Commercial
+ADM0043,PT1027,61,Medical,Elective,Respiratory,2026-05-31,2026-06-01,1,Rehab,false,Commercial
+ADM0059,PT1118,56,Medical,Elective,Respiratory,2026-03-10,2026-03-11,1,Home Health,false,Medicaid
+ADM0217,PT1065,72,Telemetry,Elective,Respiratory,2026-02-26,2026-02-27,1,Home,false,Commercial
+ADM0248,PT1168,70,Medical,Emergency,Respiratory,2026-03-04,2026-03-05,1,Home Health,false,Medicare
+ADM0266,PT1087,55,Telemetry,Elective,Respiratory,2026-03-16,2026-03-17,1,Home,false,Commercial
+ADM0002,PT1134,27,Telemetry,Emergency,Respiratory,2026-02-07,2026-02-09,2,Home,false,Medicare
+ADM0037,PT1184,55,Telemetry,Elective,Respiratory,2026-01-15,2026-01-17,2,Rehab,false,Medicaid
+ADM0086,PT1041,47,Medical,Emergency,Respiratory,2026-01-24,2026-01-26,2,Home,false,Commercial
+ADM0113,PT1092,74,Medical,Emergency,Respiratory,2026-04-16,2026-04-18,2,Home,false,Medicare
+ADM0172,PT1236,49,Medical,Transfer,Respiratory,2026-01-09,2026-01-11,2,Rehab,false,Medicaid
+ADM0199,PT1070,81,Surgical,Transfer,Respiratory,2026-03-25,2026-03-27,2,Skilled Nursing Facility,false,Commercial
+ADM0231,PT1197,91,Medical,Elective,Respiratory,2026-03-21,2026-03-23,2,Home Health,true,Commercial
+ADM0292,PT1041,94,Medical,Emergency,Respiratory,2026-01-15,2026-01-17,2,Skilled Nursing Facility,false,Medicare
+ADM0023,PT1243,70,Medical,Elective,Respiratory,2026-05-28,2026-05-31,3,Skilled Nursing Facility,false,Commercial
+ADM0030,PT1144,70,Medical,Emergency,Respiratory,2026-06-30,2026-07-03,3,Home,true,Commercial
+ADM0045,PT1064,66,Telemetry,Elective,Respiratory,2026-03-09,2026-03-12,3,Home,false,Medicare
+ADM0058,PT1010,83,Telemetry,Emergency,Respiratory,2026-04-29,2026-05-02,3,Home Health,false,Commercial
+ADM0066,PT1210,22,ICU,Emergency,Respiratory,2026-03-06,2026-03-09,3,Home,false,Commercial
+ADM0153,PT1219,78,Medical,Emergency,Respiratory,2026-06-03,2026-06-06,3,Home,true,Medicare
+ADM0156,PT1009,49,ICU,Emergency,Respiratory,2026-01-02,2026-01-05,3,Home,false,Commercial
+ADM0162,PT1219,83,Surgical,Emergency,Respiratory,2026-01-06,2026-01-09,3,Home,false,Self-Pay
+ADM0295,PT1161,77,Telemetry,Emergency,Respiratory,2026-02-18,2026-02-21,3,Rehab,false,Medicare
+ADM0134,PT1198,45,ICU,Transfer,Respiratory,2026-05-04,2026-05-08,4,Skilled Nursing Facility,false,Medicare
+ADM0139,PT1094,44,Medical,Elective,Respiratory,2026-05-16,2026-05-20,4,Home,false,Medicare
+ADM0237,PT1135,40,Medical,Elective,Respiratory,2026-03-25,2026-03-29,4,Home,false,Medicaid
+ADM0225,PT1057,54,ICU,Emergency,Respiratory,2026-03-29,2026-04-03,5,Home,true,Commercial
+ADM0228,PT1184,74,Surgical,Emergency,Respiratory,2026-04-21,2026-04-26,5,Home,false,Medicaid
+ADM0033,PT1212,53,Medical,Emergency,Respiratory,2026-02-01,2026-02-07,6,Home,false,Medicaid
+ADM0060,PT1046,72,ICU,Emergency,Respiratory,2026-05-27,2026-06-02,6,Home,true,Medicaid
+ADM0085,PT1245,53,Medical,Elective,Respiratory,2026-06-27,2026-07-03,6,Home,true,Self-Pay
+ADM0126,PT1073,82,ICU,Elective,Respiratory,2026-02-08,2026-02-14,6,Home,false,Commercial
+ADM0169,PT1120,87,Medical,Emergency,Respiratory,2026-06-14,2026-06-20,6,Home,false,Commercial
+ADM0013,PT1249,89,Telemetry,Emergency,Respiratory,2026-05-08,2026-05-15,7,Skilled Nursing Facility,false,Commercial
+ADM0016,PT1203,64,Medical,Elective,Respiratory,2026-03-22,2026-03-29,7,Home,false,Medicaid
+ADM0028,PT1117,85,Medical,Emergency,Respiratory,2026-05-25,2026-06-01,7,Rehab,false,Medicare
+ADM0082,PT1167,62,Medical,Emergency,Respiratory,2026-05-08,2026-05-16,8,Skilled Nursing Facility,true,Commercial
+ADM0098,PT1139,65,Medical,Emergency,Respiratory,2026-01-02,2026-01-10,8,Rehab,false,Medicaid
+ADM0071,PT1152,23,ICU,Emergency,Respiratory,2026-01-02,2026-01-11,9,Home,false,Self-Pay
+ADM0258,PT1116,41,ICU,Emergency,Respiratory,2026-04-06,2026-04-15,9,Skilled Nursing Facility,false,Commercial
+ADM0121,PT1020,50,ICU,Elective,Respiratory,2026-05-06,2026-05-19,13,Home,false,Commercial
+ADM0252,PT1169,55,ICU,Emergency,Respiratory,2026-05-10,2026-05-23,13,Home,false,Commercial
+ADM0114,PT1243,81,ICU,Emergency,Respiratory,2026-04-09,2026-04-26,17,Home,false,Commercial
+ADM0210,PT1207,86,ICU,Emergency,Respiratory,2026-01-29,2026-02-17,19,Home,false,Commercial
